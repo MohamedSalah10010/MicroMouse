@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: pyb3
+Version: 0.0.1
+Summary: B3 (b3.com.br) API wrapper.
+Home-page: https://github.com/victormpa/pyb3
+Author: Victor Martins
+Author-email: victor.martins.dpaula@gmail.com
+Project-URL: Bug Tracker, https://github.com/victormpa/pyb3/issues
+Classifier: Development Status :: 1 - Planning
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.9
+Classifier: License :: OSI Approved :: Apache Software License
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# pyb3
+Python wrapper for B3 (b3.com.br) API.
