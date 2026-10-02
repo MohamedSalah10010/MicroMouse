@@ -286,16 +286,5 @@ Values you will most likely need to adjust for a different robot or maze:
 - Save the explored maze to flash memory so it survives a reset
 - Clean up duplicated files and unify the module layout
 
----
 
-## Acknowledgements
 
-- `imu.py` is adapted from the [micropython-mpu9150](https://github.com/micropython-IMU/micropython-mpu9150) driver by Sebastian Plamauer and Peter Hinch (MIT License).
-- `hcsr04.py` is the HC-SR04 driver by Roberto Sánchez (Apache License 2.0).
-- The `lib/` folder contains packages from [micropython-lib](https://github.com/micropython/micropython-lib).
-
----
-
-## License
-
-Add a license of your choice (for example MIT) before publishing the repository.
